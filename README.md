@@ -15,3 +15,17 @@ our model will be able to extract the answer from this context, which is ```in t
 We will start by evaluating some simple models that only identify the sentence that contains the answer (i.e., the answer sentence) within the context. Then we'll move to a state-of-the-art model called ```BERT``` that can also identify the exact answer.
 
 ## Dataset: https://rajpurkar.github.io/SQuAD-explorer/
+
+This Machine Learning end-to-end project consists of the following tasks:
+
+    1. Performed Text data processing and EDA on review texts to remove noise and handle imbalanced data and outliers
+    2. Constructed numerical features for prediction by implementing frequency-based features like TF and TF-IDF
+    3. Implemented, trained and evaluated various Machine Learning algorithms like Logistic regression, SVM and Random Forest. 
+    4. Achieved accuracy of ~82% and deployed the trained model to a public API endpoint on Azure ML Studio
+
+General Details The following table contains general information about this project module:
+
+    Prerequisites 	     :   Python3, Numpy, Pandas, Pytorch
+    Concepts 	     :   Sklearn, Natural Language processing, PyTorch, HuggingFace
+    Applicable languages :	 Python3
+    Applicable platform  :	 Jupyter Notebook, Azure Machine Learning Studio 
