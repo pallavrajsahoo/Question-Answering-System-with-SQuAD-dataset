@@ -22,6 +22,12 @@ This Machine Learning end-to-end project consists of the following tasks:
     2. Constructed numerical features for prediction by implementing frequency-based features like TF and TF-IDF
     3. Implemented, trained and evaluated various Machine Learning algorithms like Logistic regression, SVM and Random Forest. 
     4. Achieved accuracy of ~82% and deployed the trained model to a public API endpoint on Azure ML Studio
+    
+   
+    Implemented Supervised and Unsupervised learning models to identify the sentence that contains the answer to a given question
+    
+    Explain the intuition behind a question-answering system from the perspective of natural language processing.
+
 
 General Details The following table contains general information about this project module:
 
